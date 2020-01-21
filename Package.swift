@@ -2,6 +2,7 @@
 //
 // Copyright © 2017 ImaginaryCloud, imaginarycloud.com. This library is licensed under the MIT license.
 
+// swift-tools-version:5.0
 import PackageDescription
 
 let package = Package(
